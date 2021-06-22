@@ -1,4 +1,4 @@
-# Implicit vs. Explicit Network Policies
+# Implicit vs. Explicit Default/Deny Network Policies
 
 An implicit deny is when a user or group are not granted a specific permission in the security settings of an object, but they are not explicitly denied either.
 This default deny policy gives other policies a chance to apply, and if traffic is not matched, it will finally be denied.
